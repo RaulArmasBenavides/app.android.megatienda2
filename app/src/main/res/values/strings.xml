@@ -1,0 +1,57 @@
+<resources>
+    <!-- AndroidManifest -->
+    <string name="app_name">Total Store</string>
+
+    <!-- activity_main  -->
+    <string name="mensaje">Entérate de lo que está pasando en el mundo en este momento.</string>
+    <string name="crear_cuenta">Crear cuenta</string>
+    <string name="tienes_cuenta">¿Ya tienes una cuenta?</string>
+    <string name="iniciar_sesion">Iniciar sesión</string>
+
+    <!-- inicio sesiòn -->
+    <string name="usuario">Usuario</string>
+    <string name="usuario_hint">Nombre de usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="contrasena_hint">Ingrese contraseña</string>
+
+    <string name="informacion">Información</string>
+    <string name="acerca_de">Acerca de</string>
+    <string name="terminos">Términos y condiciones</string>
+    <string name="direccion">1600 Pennsylvania Ave NW, Washington, DC 20500, Estados Unidos</string>
+    <string name="telefono">511-5634241</string>
+    <string name="correo">info@megatienda.com</string>
+    <string name="web">http://www.megatienda.com</string>
+
+    <string name="quienes_somos">Quienes somos</string>
+    <string name="mision">Misión</string>
+    <string name="vision">Visión</string>
+
+    <string name="quienes_somos_contenido">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in arcu aliquet, hendrerit quam vitae, rhoncus nisl. \n\nPellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus mollis nulla sem, quis congue lectus consectetur et. Maecenas eget justo sed nunc dictum mattis sit amet ut risus.\n\n Praesent ac velit fringilla, tincidunt odio lobortis, scelerisque turpis. Aliquam convallis eros ut sapien euismod, sed rhoncus ex viverra. Integer sit amet egestas sapien. Suspendisse potenti. Sed in eros eu dolor pretium molestie nec vel urna.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in arcu aliquet, hendrerit quam vitae, rhoncus nisl. \n\nPellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus mollis nulla sem, quis congue lectus consectetur et. Maecenas eget justo sed nunc dictum mattis sit amet ut risus.\n\n Praesent ac velit fringilla, tincidunt odio lobortis, scelerisque turpis. Aliquam convallis eros ut sapien euismod, sed rhoncus ex viverra. Integer sit amet egestas sapien. Suspendisse potenti. Sed in eros eu dolor pretium molestie nec vel urna.</string>
+    <string name="mision_contenido">Nam massa velit, cursus quis faucibus vitae, varius quis lorem. Donec nunc mauris, vulputate vitae viverra consequat, luctus quis massa.\n\n Suspendisse potenti. Mauris enim tortor, interdum ut lobortis id, accumsan eu metus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec hendrerit enim sed cursus luctus.\n\n Suspendisse potenti. Vivamus lacinia malesuada varius. Quisque enim velit, blandit eget odio eget, imperdiet lobortis quam. Aenean elementum vehicula arcu a tempus. Ut cursus metus vel nunc laoreet egestas.</string>
+    <string name="vision_contenido">Cras consectetur elementum sem nec maximus. Aenean id lectus non felis mattis molestie vitae vitae quam. Interdum et malesuada fames ac ante ipsum primis in faucibus.\n\n Curabitur id dui fermentum, blandit leo non, tempor magna. Integer urna eros, venenatis quis auctor a, pellentesque nec ligula. Aliquam scelerisque lectus diam, pulvinar eleifend augue gravida eu.\n\n Nulla posuere eget enim eu mollis. Donec a nibh in justo mattis congue in non risus. Cras non varius enim. Integer sit amet sollicitudin turpis. Proin et eros et mauris varius pharetra. Nam eu neque hendrerit, condimentum elit id, dictum ex.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_escritorio">EscritorioActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="inicio">Inicio</string>
+    <string name="categorias">Categorías</string>
+    <string name="productos">Productos</string>
+    <string name="colaboradores">Colaboradores</string>
+    <string name="sesion">Sesión</string>
+    <string name="cerrar_sesion">Cerrar sesión</string>
+    <string name="salir">Salir</string>
+
+</resources>
